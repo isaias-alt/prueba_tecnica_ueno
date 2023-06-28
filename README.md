@@ -2,7 +2,7 @@
 
 Este documento proporciona información sobre la versión de Flutter utilizada para crear el proyecto y los requisitos necesarios para su ejecución.
 
-Descarga el APK del proyecto aquí: [Descarga el APK del proyecto aquí](prueba_tecnica_ueno/build/app/outputs/flutter-apk)
+[Descarga el APK del proyecto aquí](prueba_tecnica_ueno/apk)
 
 
 ## Versión de Flutter
