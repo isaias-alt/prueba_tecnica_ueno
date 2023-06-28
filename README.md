@@ -2,6 +2,9 @@
 
 Este documento proporciona información sobre la versión de Flutter utilizada para crear el proyecto y los requisitos necesarios para su ejecución.
 
+Descarga el APK del proyecto aquí: [Descarga el APK del proyecto aquí](prueba_tecnica_ueno/build/app/outputs/flutter-apk)
+
+
 ## Versión de Flutter
 
 El proyecto fue desarrollado utilizando Flutter, un framework de código abierto desarrollado por Google para crear aplicaciones multiplataforma. A continuación se muestra la versión de Flutter utilizada:
