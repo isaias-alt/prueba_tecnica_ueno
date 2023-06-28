@@ -2,7 +2,7 @@
 
 Este documento proporciona información sobre la versión de Flutter utilizada para crear el proyecto y los requisitos necesarios para su ejecución.
 
-[Descarga el APK del proyecto aquí](/apk/)
+[El APK del proyecto aquí](/apk/)
 
 
 ## Versión de Flutter
